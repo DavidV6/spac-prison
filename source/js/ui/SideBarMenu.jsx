@@ -136,6 +136,13 @@ class SideBarMenu extends Component {
                                     {i18nlabels(this.props.labels, 'sidebar_menu_item_2_subitem_3', 'Dera e vogël e ferrit ')}
                                 </label>
                             </div>
+                            <div className="subitem" onClick={() => this.onOpenLink({ page_type: "photo_360", id: 25 })}
+                                onMouseEnter={() => this.onHover({ page_type: "photo_360", id: 21 })}
+                                onMouseLeave={() => this.onHoverLeave({ page_type: "photo_360", id: 21 })}>
+                                <label>
+                                    {i18nlabels(this.props.labels, 'sidebar_menu_item_2_subitem_5', 'Ushqimi')}
+                                </label>
+                            </div>
                             <div className="subitem" onClick={() => this.onOpenLink({ page_type: "photo_360", id: 24 })}
                                 onMouseEnter={() => this.onHover({ page_type: "photo_360", id: 21 })}
                                 onMouseLeave={() => this.onHoverLeave({ page_type: "photo_360", id: 21 })}>
@@ -176,6 +183,13 @@ class SideBarMenu extends Component {
                                 onMouseLeave={() => this.onHoverLeave({ page_type: "two_photo", id: 31 })}>
                                 <label>
                                     {i18nlabels(this.props.labels, 'sidebar_menu_item_3_subitem_3', 'Nën presion')}
+                                </label>
+                            </div>
+                            <div className="subitem" onClick={() => this.onOpenLink({ page_type: "photo_360", id: 34 })}
+                                onMouseEnter={() => this.onHover({ page_type: "photo_360", id: 31 })}
+                                onMouseLeave={() => this.onHoverLeave({ page_type: "photo_360", id: 31 })}>
+                                <label>
+                                    {i18nlabels(this.props.labels, 'sidebar_menu_item_3_subitem_4', 'Marrëdhëniet midis të burgosurve')}
                                 </label>
                             </div>
                         </div>

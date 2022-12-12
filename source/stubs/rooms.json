@@ -93,6 +93,14 @@
           "sceneId": "photoViewer_24",
           "text": "room_hotspot_24",
           "URL": "/content/photo/hotspot/24"
+        },
+        {
+          "pitch": 0,
+          "yaw": -40,
+          "type": "info",
+          "sceneId": "photoViewer_25",
+          "text": "room_hotspot_25",
+          "URL": "/content/photo/hotspot/25"
         }
       ],
       "find_hotspots": false
@@ -136,6 +144,14 @@
           "sceneId": "photoViewer_24",
           "text": "room_hotspot_24",
           "URL": "/content/photo/hotspot/24"
+        },
+        {
+          "pitch": 0,
+          "yaw": -40,
+          "type": "info",
+          "sceneId": "photoViewer_25",
+          "text": "room_hotspot_25",
+          "URL": "/content/photo/hotspot/25"
         }
       ],
       "find_hotspots": false
@@ -179,6 +195,14 @@
           "sceneId": "photoViewer_24",
           "text": "room_hotspot_24",
           "URL": "/content/photo/hotspot/24"
+        },
+        {
+          "pitch": 0,
+          "yaw": -40,
+          "type": "info",
+          "sceneId": "photoViewer_25",
+          "text": "room_hotspot_25",
+          "URL": "/content/photo/hotspot/25"
         }
       ],
       "find_hotspots": false
@@ -222,6 +246,65 @@
           "sceneId": "photoViewer_24",
           "text": "room_hotspot_24",
           "URL": "/content/photo/hotspot/24"
+        },
+        {
+          "pitch": 0,
+          "yaw": -40,
+          "type": "info",
+          "sceneId": "photoViewer_25",
+          "text": "room_hotspot_25",
+          "URL": "/content/photo/hotspot/25"
+        }
+      ],
+      "find_hotspots": false
+    },
+    {
+      "id": 25,
+      "page_title": "Food",
+      "page_type": "photo_360",
+      "story_title": "Food",
+      "story_content": "<p>A former inmate has this to remember about food in Spaç: “For eight months a year we were given only boiled leeks. The evening tea was almost sugarless and to “gulp down” the bread, people crushed it as that was the way to make a sour mix that was a bit different from that usually dull, almost disgusting, taste. To get food in the mess tin we carried with ourselves, we had to wait for hours in the sun, rain, or snow. Those who were sent food from by their families lowered their heads in shame while watching convicts collecting pieces of bread left on the canteen tables by working inmates, who did not eat all the food because of gasses that they had inhaled in”</p><p>Luan Myftiu, “Gazeta 55”, no. 115, 28.4.2012.</p>",
+      "image_1": "../assets/29f27bc1-fb8e-4043-9c8f-0ae106643b98_volleyball.jpg",
+      "hotspots": [
+        {
+          "pitch": 0,
+          "yaw": 0,
+          "type": "info",
+          "sceneId": "photoViewer_21",
+          "text": "room_hotspot_21",
+          "URL": "/content/photo/index/21"
+        },
+        {
+          "pitch": -10,
+          "yaw": 135,
+          "type": "info",
+          "sceneId": "photoViewer_22",
+          "text": "room_hotspot_22",
+          "URL": "/content/photo/hotspot/22"
+        },
+        {
+          "pitch": 4.85604237006366,
+          "yaw": -59.053079012478825,
+          "type": "info",
+          "sceneId": "photoViewer_23",
+          "text": "room_hotspot_23",
+          "URL": "/content/photo/hotspot/23"
+        },
+        {
+          "pitch": 33,
+          "yaw": 10,
+          "type": "info",
+          "sceneId": "photoViewer_24",
+          "text": "room_hotspot_24",
+          "URL": "/content/photo/hotspot/24"
+        },
+        {
+          "pitch": 0,
+          "yaw": -40,
+          "type": "info",
+          "sceneId": "photoViewer_25",
+          "text": "room_hotspot_25",
+          "URL": "/content/photo/hotspot/25"
         }
       ],
       "find_hotspots": false
@@ -257,6 +340,14 @@
           "sceneId": "photoViewer_33",
           "text": "room_hotspot_33",
           "URL": "/content/two_photo/33"
+        },
+        {
+          "pitch": 10,
+          "yaw": 50,
+          "type": "info",
+          "sceneId": "photoViewer_34",
+          "text": "room_hotspot_34",
+          "URL": "/content/photo/index/34"
         }
       ],
       "find_hotspots": false
@@ -283,6 +374,50 @@
       "images": [
         "../assets/H3_3_1.jpg"
       ]
+    },
+    {
+      "id": 34,
+      "mainURL": "/content/photo/index/34",
+      "page_title": "Relationships among convicts",
+      "page_type": "photo_360",
+      "story_title": "Relationships among convicts",
+      "story_content": "<p>The lack of personal space, the deep distrust among inmates due to collaborators, the misery and destitution in which they lived, the permanent hunger for more food and other basic human needs paved the way for violence and conflicts among them. Cases of theft of food or clothing items, violence against collaborators who reported their fellow sufferers were the most frequent incidents, though cases of sexual violence were not at all absent, either, especially against newly arrived inmates, who were also known in the prison parlance as “the meat”.</p><p>The other division in the camp of Spaç was that between political and ordinary convicts, who lived in separate spaces. The camp command was keen to keep these two communities of inmates separate from each other, inciting divisions between them. Political prisoners in the camp were distinguished by a brown-color uniform while ordinary inmates kept their civil attire.</p><p>Extract from “A brief history of the reeducation unit 303 of Spaç-Mirditë”,<br/>Artan Puto, page 123, published by CHwB Albania, 2022.</p>",
+      "image_1": "../assets/R0010010.jpg",
+      "hotspots": [
+        {
+          "pitch": -13,
+          "yaw": -135,
+          "type": "info",
+          "sceneId": "photoViewer_32",
+          "text": "room_hotspot_31",
+          "URL": "/content/photo/index/31"
+        },
+        {
+          "pitch": 34.39,
+          "yaw": 65.88,
+          "type": "info",
+          "sceneId": "photoViewer_32",
+          "text": "room_hotspot_32",
+          "URL": "/content/two_photo/32"
+        },
+        {
+          "pitch": 30,
+          "yaw": 110,
+          "type": "info",
+          "sceneId": "photoViewer_33",
+          "text": "room_hotspot_33",
+          "URL": "/content/two_photo/33"
+        },
+        {
+          "pitch": -13,
+          "yaw": 135,
+          "type": "info",
+          "sceneId": "photoViewer_34",
+          "text": "room_hotspot_34",
+          "URL": "/content/photo/index/34"
+        }
+      ],
+      "find_hotspots": false
     },
     {
       "id": 41,
