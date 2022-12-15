@@ -342,8 +342,8 @@
           "URL": "/content/two_photo/33"
         },
         {
-          "pitch": 10,
-          "yaw": 50,
+          "pitch": -13,
+          "yaw": 135,
           "type": "info",
           "sceneId": "photoViewer_34",
           "text": "room_hotspot_34",
